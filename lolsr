@@ -93,4 +93,4 @@ local function openDevConsole()
 end
 
 -- Call the function to open the DevConsole
-openDevConsole()
+openDevConsole(
